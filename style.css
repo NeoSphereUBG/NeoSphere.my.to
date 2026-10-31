@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel&display=swap");
+
+h1, h2, h3, h4, h5, p, a {
+  font-family: Abel;
+}
+
+#1 {
+  border-radius: 4px;
+}
+
+pretendthisisadiv {
+  width: 100%;
+}
+
+body {
+  text-align: center;
+}
+
+hr {
+  color: #000000;
+  height: 4px;
+  background-color: #000000;
+}
